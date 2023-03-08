@@ -8,10 +8,6 @@ import { EarthCanvas } from './canvas';
 import { Wrapper } from '../hoc';
 import { slideIn } from '../utils/motion';
 
-// template_1r7zypi
-// service_h3cm05q
-// 4h9h4lHtBI1OSlN3m
-
 const Contact = () => {
 
   const formRef = useRef();
