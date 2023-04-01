@@ -49,7 +49,11 @@ import {
     },
     {
       id: "work",
-      title: "Work",
+      title: "Experience",
+    },
+    {
+      id: "project",
+      title: "Projects",
     },
     {
       id: "contact",
@@ -81,7 +85,7 @@ import {
     {
       name: "Spotify",
       icon: spotify,
-      link: "https://open.spotify.com/user/4h0tl3w6vz5333qsdr1zbhto"
+      link: "https://open.spotify.com/user/4h0tl3w6vz5333qsdr1zbhtox?si=a52e2382de164e97"
     }
   ]
   

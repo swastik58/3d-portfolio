@@ -89,4 +89,4 @@ const Works = () => {
   )
 }
 
-export default Wrapper(Works, "");
+export default Wrapper(Works, "project");
